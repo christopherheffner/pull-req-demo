@@ -1,3 +1,3 @@
 def add(a, b):
-  # make it work
+  a + b
   pass
